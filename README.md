@@ -1,4 +1,4 @@
-# Nexus
+# Trends in APMC
 
 Filtering outliers, detecting seasonality type, deseasonal prices , comparing MSP and de-seasonalize prices and price fluctuations in commodities using the two input files - CMO_MSP_Mandi.csv and Monthly_data_cmo.csv
 
